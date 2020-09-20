@@ -1,0 +1,13 @@
+# Dependency directories
+node_modules
+package-lock.json
+
+# Build generated files
+lib
+
+# Visual Studio files
+debug.log
+.ntvs_analysis.dat
+.vs
+bin
+obj
